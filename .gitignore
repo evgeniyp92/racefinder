@@ -36,3 +36,12 @@ yarn-error.log*
 # Misc
 .DS_Store
 *.pem
+/.idea/.gitignore
+/.fastRequest/config/fastRequestCurrentProjectConfig.json
+/.fastRequest/config/fastRequestCurrentProjectEnvironment.json
+/.idea/fastRequest/fastRequestCurrentProjectLocalConfig.xml
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/inspectionProfiles/Project_Default.xml
+/.idea/racefinder.iml
+/.idea/vcs.xml
