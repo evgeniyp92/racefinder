@@ -1,5 +1,15 @@
 # CLAUDE.md — Racefinder
 
+## Current TODOs
+- [ ] Fix the dashboard password being leaked in traefik/values.yaml
+- [ ] Create a landing page for boysoft.dev as a smoke test and disambiguation
+- [ ] Create a racefinder namespace
+- [ ] Deploy and secure PostgreSQL
+- [ ] Add PostGIS extension
+- [ ] Set up routing (Gateway API HTTPRoutes via Traefik)
+
+---
+
 ## What is Racefinder?
 
 Racefinder is a cross-platform sim racing schedule aggregator. It pulls race
